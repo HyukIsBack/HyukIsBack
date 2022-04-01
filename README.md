@@ -5,9 +5,7 @@
 
   Seung Hyuk's Github
   
-  My main skills are C#, Python
-  
-  Im Korean student developer + noob
+  Im Korean student developer
   
   MY youtube : https://www.youtube.com/channel/UCTW9l6Ek8w3wOCiQSh1-zBQ
 
